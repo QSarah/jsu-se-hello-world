@@ -83,9 +83,7 @@ After you run `gradle build`, a new `build` directory will automatically be crea
   `java -jar build/libs/<name>.jar`
   from the project root.
 
-
-
-
+Sarah Qureshi
 
 
 
